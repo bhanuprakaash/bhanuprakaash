@@ -1,6 +1,4 @@
 ### Hi there 👋 I'm Bhanu Prakash Sai - Computer Science Graduate
-
-## About Me
 I'm a passionate computer science graduate with expertise in web development. My skill set includes the MERN stack (MongoDB, Express.js, React.js, Node.js), Spring Boot, and SQL. I also did various projects that demonstrate my ability to build robust and efficient web applications. Additionally, I have gained experience in deep learning through a remote internship at TCS ion.
 
 ## Skills
