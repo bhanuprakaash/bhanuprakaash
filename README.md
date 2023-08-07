@@ -1,22 +1,13 @@
-### Hi there 👋 I'm Bhanu Prakash Sai - Computer Science Graduate
-I'm a passionate computer science graduate with expertise in web development. My skill set includes the MERN stack (MongoDB, Express.js, React.js, Node.js), Spring Boot, and SQL. I also did various projects that demonstrate my ability to build robust and efficient web applications. Additionally, I have gained experience in deep learning through a remote internship at TCS ion.
+<h3 align="center">👋 Hi, I'm Bhanu Prakash Sai.</h3>
 
-### Skills
-- MERN stack (MongoDB, Express.js, React.js, Node.js)
-- Spring Boot
-- SQL
+<p align="center">
+  <a href="#">website</a> •
+  <a href="https://www.linkedin.com/in/bhanu-prakash-sai-34b5b1215/">linkedin</a> •
+  <a href="mailto:your-email@example.com">mail</a> 
+</p>
 
-### Additional Skills
-Effective communication, problem-solving, and teamwork are qualities that I prioritize, allowing me to collaborate seamlessly with cross-functional teams.
+---
 
-### Open Source and Contributions
-I am passionate about open source and actively seek opportunities to contribute and learn. I believe in the power of collaboration and sharing knowledge with the community.
+I'm a computer science graduate with expertise in software development. My skill set includes the MERN (MongoDB, Express.js, React.js, Node.js), Spring, and MySql. I also did various projects that demonstrate my ability to build robust and efficient web applications.
 
-### Contact
-Feel free to reach out to me through the following channels:
-- Email: [bhanuprakashsai7@gmail.com](mailto:bhanuprakashsai7@gmail.com)
-- LinkedIn: [Bhanu Prakash Sai](https://www.linkedin.com/in/bhanu-prakash-sai-34b5b1215/)
-
-Let's connect and explore the world of software development together!
-
-Happy Hacking!! 
+I am passionate about open source and open to hear opportunities to contribute and learn.
