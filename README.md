@@ -1,9 +1,9 @@
 <h3 align="center">👋 Hi, I'm Bhanu Prakash Sai.</h3>
 
 <p align="center">
-  <a href="#">website</a> •
+  <a href="https://bhanu-prakash-sai.vercel.app/">website</a> •
   <a href="https://www.linkedin.com/in/bhanu-prakash-sai-34b5b1215/">linkedin</a> •
-  <a href="mailto:your-email@example.com">mail</a> 
+  <a href="mailto:bhanuprakashsaip@gmail.com">mail</a> 
 </p>
 
 ---
