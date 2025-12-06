@@ -1,13 +1,13 @@
-<h3 align="center">👋 Hi, I'm Bhanu Prakash Sai.</h3>
+<h3 align="center">👋 Hey There, I'm Bhanu Prakash Sai.</h3>
 
 <p align="center">
-  <a href="https://bhanu-prakash-sai.vercel.app/">website</a> •
+  <a href="https://bhanuprakashsai.com">website</a> •
   <a href="https://www.linkedin.com/in/bhanu-prakash-sai-34b5b1215/">linkedin</a> •
   <a href="mailto:bhanuprakashsaip@gmail.com">mail</a> 
 </p>
 
 ---
 
-I'm a computer science graduate with expertise in software development. My skill set includes the MERN (MongoDB, Express.js, React.js, Node.js), Spring, and MySql. I also did various projects that demonstrate my ability to build robust and efficient web applications.
+Software Engineer at Zino Technologies, dedicated to delivering critical platform features. I design and implement end-to-end solutions, leveraging Golang for backend performance and React for elegant frontend delivery. 
 
-I am passionate about open source and open to hear opportunities to contribute and learn.
+I autonomously manage the full development lifecycle, ensuring high standards for code quality, testing, and reliable deployment. Passionate about open source and open to hear opportunities to contribute and learn.
